@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">Juan Rossi  <br>📊 Analista de Dados <br> <br>🐍 2,5 anos de experiência<br>💼 Grupo Fleury  <br>🎓 Pós-graduando em Ciência de Dados — PUC Minas</p>
+<p align="center">Juan Rossi  <br>📊 Analista de Dados <br> <br>🐍 5 anos de experiência<br>💼 Close-Up International  <br>🎓 Pós-graduando em Ciência de Dados — PUC Minas</p>
 
 ###
 
